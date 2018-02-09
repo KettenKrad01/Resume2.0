@@ -35,7 +35,7 @@
             </header>
             <p v-for="(item, index) in traitList" :key="index">
                 <!--<span class="left__personal-point"/>-->
-                {{`${index + 1}.${item}`}}
+                {{` ${index + 1}. ${item}`}}
             </p>
         </div>
     </div>
