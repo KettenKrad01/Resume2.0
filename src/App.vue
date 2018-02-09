@@ -21,6 +21,7 @@
         margin: 0;
         height: 100%;
         overflow: auto;
+        font-family: '微软雅黑', "Microsoft YaHei", "isalpha", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei";
     }
     #app {
         font-family: 'Avenir', Helvetica, Arial, sans-serif;

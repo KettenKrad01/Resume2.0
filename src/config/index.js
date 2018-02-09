@@ -70,7 +70,7 @@ const traitList = [
     '认真负责，有较强的学习能力，对新事物有较强的接受能力。',
     '有时间观念，能在规定时间内完成任务。',
     '知乎，github重度使用者，关注前端技术的最新发展，会收听技术大牛的Live。',
-    '热爱阅读技术书籍，看过《深入浅出React和Redux》，《你不知道的JavaScript》',
+    '热爱阅读技术书籍，喜欢的书目有《深入浅出React和Redux》，《你不知道的JavaScript》',
 ];
 //技术栈
 const skillList = [

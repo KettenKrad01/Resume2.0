@@ -22,8 +22,8 @@
                     <!--<el-button @click="$router.push('/project'+detail)">详情</el-button>-->
                 <!--</div>-->
             </div>
-            <p style="margin-bottom: 0">链接:{{link}} {{account && `(测试账号:${account} 密码:${password})`}}</p>
-            <p style="margin-top: 0">{{dec}}</p>
+            <p style="margin-bottom: 0">{{dec}}</p>
+            <p style="margin-top: 5px">链接:{{link}} {{account && `(测试账号:${account} 密码:${password})`}}</p>
             <div v-for="(point, index) in points" :key="index">
                 &nbsp;&nbsp;&nbsp;&nbsp;
                 <span class="left__personal-point"/>{{point}}
