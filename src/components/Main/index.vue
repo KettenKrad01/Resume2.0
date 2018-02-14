@@ -27,13 +27,13 @@
     .rm-main {
         display: flex;
         .rm-main-left {
-            flex: 0.35;
+            flex: 0.25;
             padding: 30px 35px;
             overflow: hidden;
             background: #eeeeee;
         }
         .rm-main-right {
-            flex: 0.7;
+            flex: 0.8;
             padding: 30px 35px;
             padding-bottom: 0;
             overflow: hidden;

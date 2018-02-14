@@ -17,14 +17,15 @@
 </script>
 
 <style lang="less">
-    html, body, #app {
+    html, body, #app, pre {
         margin: 0;
         height: 100%;
         overflow: auto;
-        font-family: '微软雅黑', "Microsoft YaHei", "isalpha", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei";
+        /*font-family: '微软雅黑', "Microsoft YaHei", "isalpha", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei";*/
+        font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
     }
     #app {
-        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        /*font-family: 'Avenir', Helvetica, Arial, sans-serif;*/
         font-size: 16px;
         background-color: #eee;
     }

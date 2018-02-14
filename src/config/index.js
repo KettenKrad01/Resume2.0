@@ -7,7 +7,9 @@ const projectList = [{
     detail: '/yh',
     account: 13266705799,
     password: 123456,
-    dec: `银河智投是个金属交易所网站，主要功能有交易，平仓，出入金，展示行情数据，图示化数据等。其中主要用到的技术栈是React+Mobx+Typescript，组件样式是用antd+less。`,
+    dec: `银河智投是个金属交易所网站，主要功能有交易、平仓、出入金、展示行情数据、图示化数据等。
+主要技术栈: React+Mobx+Typescript
+组件样式: antd+less。`,
     points: [
         'mobx状态管理库管理数据，实现多组件数据同步，实时更新。',
         '使用typescript增加类型检查，提高开发和维护的效率。',
@@ -40,7 +42,9 @@ const projectList = [{
     detail: '/yh',
     account: 13266705799,
     password: 123456,
-    dec: '图灵交易所是个交易所网站，主要功能有交易，平仓，出入金，展示行情数据，图示化数据等。其中主要用到的技术栈是React+Mobx，组件样式是用antd+less。',
+    dec: `摩尔交易所是个交易所网站，主要功能有交易，平仓，出入金，展示行情数据，图示化数据等。
+主要技术栈: React+Mobx
+组件样式: antd+less。`,
     points: [
         'mobx状态管理库管理数据，实现多组件数据同步，实时更新。',
         '基于Echarts定制股票图表。',
@@ -57,7 +61,9 @@ const projectList = [{
     detail: '/yh',
     account: 'cds',
     password: 123456,
-    dec: '图灵平台是监控股票市场数据的内部网站，主要功能是后台数据展示，图示化数据，对数据进行增删改查操作等。其中主要用到的技术栈是React+dva，组件样式是用antd+highchart+css。',
+    dec: `这是监控数据的内部网站，主要功能是后台数据展示，图示化数据，对数据进行增删改查操作等。
+主要技术栈: React+dva，
+组件样式: antd+highchart+css。`,
     points: [
         '使用阿里开源项目dva手脚架',
         '使用highcharts图示化数据。',

@@ -11,7 +11,7 @@
         </div>
         <div class="right-info">
             <p>{{personalInfo.sex}} / {{personalInfo.birthday}}</p>
-            <p>{{personalInfo.university}} • {{personalInfo.major}}</p>
+            <p>{{personalInfo.university}} / {{personalInfo.major}}</p>
             <p>{{personalInfo.education}} / {{personalInfo.graduation}}毕业</p>
             <p>英语 / {{personalInfo.english}}</p>
         </div>
