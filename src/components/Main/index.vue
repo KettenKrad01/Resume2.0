@@ -34,9 +34,7 @@
         }
         .rm-main-right {
             flex: 0.8;
-            padding: 30px 35px;
-            padding-bottom: 0;
-            overflow: hidden;
+            padding: 35px 30px 10px 35px;
         }
     }
 </style>

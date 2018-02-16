@@ -1,7 +1,7 @@
 <template>
     <div class="right">
         <div class="right-top">
-            <img :src="'./static/images/avatar.png'" class="right-top__avatar" />
+            <img :src="'./static/images/avatar_real.png'" class="right-top__avatar" />
             <h1>{{personalInfo.name}}</h1>
             <h3>{{personalInfo.position}}</h3>
         </div>
@@ -14,6 +14,19 @@
             <p>{{personalInfo.university}} / {{personalInfo.major}}</p>
             <p>{{personalInfo.education}} / {{personalInfo.graduation}}毕业</p>
             <p>英语 / {{personalInfo.english}}</p>
+        </div>
+        <div style="margin-bottom: 40px">
+            <p>工作经历</p>
+            <div style="padding: 8px;">
+                <div>
+                    <span style="color: gray">2016.09 - 2017.01</span>
+                    <p style="margin-left: 16px;">慧昱教育科技有限公司</p>
+                </div>
+                <div>
+                    <span style="color: gray">2016.03 - 2018.02</span>
+                    <p style="margin-left: 16px;">图灵金融科技有限公司</p>
+                </div>
+            </div>
         </div>
         <div class="right-skill">
             <p>技术栈</p>
